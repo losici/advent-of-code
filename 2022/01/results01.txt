@@ -1,0 +1,3 @@
+2022-12-01 22:03:04.035:INFO:__main__:  Result Part 1 = 67027
+2022-12-01 22:03:04.035:INFO:__main__:  Result Part 2 = 197291
+2022-12-01 22:03:04.036:INFO:__main__:  Execution time: 0.0037 seconds
