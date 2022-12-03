@@ -1,0 +1,4 @@
+2022-12-03 21:41:38.046:DEBUG:__main__: Input file path = c:\code\advent-of-code\2022\03\input\input.txt
+2022-12-03 21:41:38.052:INFO:__main__:  Result Part 1 = 7581
+2022-12-03 21:41:38.054:INFO:__main__:  Result Part 2 = 2525
+2022-12-03 21:41:38.054:INFO:__main__:  Execution time: 0.0087 seconds
